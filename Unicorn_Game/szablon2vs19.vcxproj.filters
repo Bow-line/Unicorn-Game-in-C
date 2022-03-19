@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Gracz.cpp" />
+    <ClCompile Include="Grafika.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Przeszkoda.cpp">
+      <Filter>Plansza</Filter>
+    </ClCompile>
+    <ClCompile Include="Platforma.cpp">
+      <Filter>Plansza</Filter>
+    </ClCompile>
+    <ClCompile Include="Plansza.cpp">
+      <Filter>Plansza</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Gracz.h" />
+    <ClInclude Include="Grafika.h" />
+    <ClInclude Include="Linker.h" />
+    <ClInclude Include="Platforma.h">
+      <Filter>Plansza</Filter>
+    </ClInclude>
+    <ClInclude Include="Przeszkoda.h">
+      <Filter>Plansza</Filter>
+    </ClInclude>
+    <ClInclude Include="Plansza.h">
+      <Filter>Plansza</Filter>
+    </ClInclude>
+    <ClInclude Include="Obiekt.h">
+      <Filter>Plansza</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="cs8x8.bmp" />
+    <Image Include="eti.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Plansza">
+      <UniqueIdentifier>{4bfe97aa-9126-4d21-bc92-36674259dbb4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

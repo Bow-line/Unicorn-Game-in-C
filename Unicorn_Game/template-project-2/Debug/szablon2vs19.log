@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\template-project-2\main.cpp(373,21): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\template-project-2\main.cpp(277,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\template-project-2\main.cpp(280,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\template-project-2\main.cpp(121,47): warning C4101: "image": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\template-project-2\main.cpp(254,17): warning C4101: "sprite": lokalna zmienna, do której nie istnieje odwołanie
+  szablon2vs19.vcxproj -> C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\template-project-2\Debug\szablon2vs19.exe

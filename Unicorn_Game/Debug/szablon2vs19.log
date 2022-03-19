@@ -1,0 +1,31 @@
+﻿  Gracz.cpp
+  Grafika.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(22,1): warning C4005: "M_PI": ponowna definicja makra
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\SDL2-2.0.10\include\SDL_stdinc.h(499): message : zobacz poprzednią definicję „M_PI”
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\Grafika.cpp(91,101): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\Grafika.cpp(91,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\Grafika.cpp(93,91): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\Grafika.cpp(93,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  main.cpp
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\main.cpp(270,69): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\main.cpp(271,69): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\main.cpp(294,93): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\main.cpp(294,70): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\main.cpp(276,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\main.cpp(279,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\main.cpp(302,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\main.cpp(308,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\main.cpp(310,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\main.cpp(341,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\main.cpp(343,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Plansza.cpp
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\Plansza.cpp(168,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\Plansza.cpp(169,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\Plansza.cpp(190,50): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\Plansza.cpp(189,79): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\Plansza.cpp(192,56): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\Plansza.cpp(191,81): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Platforma.cpp
+  Przeszkoda.cpp
+  Generowanie kodu...
+  szablon2vs19.vcxproj -> C:\Users\Sony\Desktop\Nowy folder (7)\template-project-2\Debug\szablon2vs19.exe
